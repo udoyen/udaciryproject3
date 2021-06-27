@@ -76,6 +76,7 @@ Complete a month cost analysis of each Azure resource to give an estimate total 
 | *App Service Plan*    |  F1      |    Free        |
 | *App Service Plan*    |  Basic   |    $12.96      |
 | *Azure Storage*       |  Hot     |    $108.92<sup>1<sup>     |
+| *Network Resources*   |  Standard |   $10 |
 
 1: Estimated inclusive of storage operations
 
